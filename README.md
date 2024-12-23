@@ -1,5 +1,5 @@
 # E-Government Autofill
-E-Government Autofill is a Python-based tool that automates the process of filling out government forms by pre-populating the required fields with user data. 
+E-Government-Autofill is a Python-based tool designed to test Selenium automation for interacting with e-government websites. This tool demonstrates the potential for automating form-filling tasks, ensuring consistency, and evaluating the usability of such automation for real-world applications.
 
 ## Prerequisites
 - Python 3.7 or later
